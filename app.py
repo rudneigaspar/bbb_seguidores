@@ -14,9 +14,9 @@ L = instaloader.Instaloader()
 
 # Lista de participantes (Substitua pelos nomes reais do Instagram)
 participantes = {
-    "Participante 1": "boninho",
-    "Participante 2": "tadeuschmidt",
-    "Participante 3": "bbb"
+    "Participante 1": "Ana Paula Renault",
+    "Participante 2": "Juliano Floss",
+    "Participante 3": "Samira Sagr"
 }
 
 def buscar_seguidores(username):
