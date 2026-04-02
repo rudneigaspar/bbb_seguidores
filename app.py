@@ -25,8 +25,8 @@ st.subheader("Acompanhe o crescimento dos participantes no Instagram")
 # Chave: Nome exibido no site | Valor: @ do Instagram (sem o @)
 participantes = {
     "👑 Líder": "nome_do_lider",
-    "🔥 No Paredão": "nome_emparedado_1",
-    "🔥 No Paredão 2": "nome_emparedado_2",
+    #"🔥 No Paredão": "nome_emparedado_1",
+    #"🔥 No Paredão 2": "nome_emparedado_2",
     "Participante 4": "usuario_4",
     "Participante 5": "usuario_5",
     "Participante 6": "usuario_6",
