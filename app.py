@@ -4,7 +4,7 @@ import time
 
 # 1. CONFIGURAÇÃO DA PÁGINA
 st.set_page_config(
-    page_title="BBB 26 - Monitor de Seguidores",
+    page_title="BBB 26 - Monitor de Seguidoresssssss",
     page_icon="👁️",
     layout="wide"
 )
