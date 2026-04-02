@@ -4,7 +4,7 @@ import time
 
 # 1. CONFIGURAÇÃO DA PÁGINA
 st.set_page_config(
-    page_title="BBB 26 - Monitor de Seguidoresssssss",
+    page_title="BBB 26 - Monitor de Seguidores",
     page_icon="👁️",
     layout="wide"
 )
@@ -18,16 +18,16 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("👁️ BBB 26: Seguidoressssss em Tempo Real")
+st.title("👁️ BBB 26: Seguidoresssss em Tempo Real")
 st.subheader("Acompanhe o crescimento dos participantes no Instagram")
 
 # 2. CONFIGURAÇÃO DOS PARTICIPANTES (Ajuste os nomes de usuário aqui)
 # Chave: Nome exibido no site | Valor: @ do Instagram (sem o @)
 participantes = {
-    "👑 Líder": "samira_sagr",
-   # "🔥 No Paredão": "nome_emparedado_1",
-   # "🔥 No Paredão 2": "nome_emparedado_2",
-    "Participante 4": "anapaularenault",
+    "👑 Líder": "nome_do_lider",
+    "🔥 No Paredão": "nome_emparedado_1",
+    "🔥 No Paredão 2": "nome_emparedado_2",
+    "Participante 4": "usuario_4",
     "Participante 5": "usuario_5",
     "Participante 6": "usuario_6",
     "Participante 7": "usuario_7",
