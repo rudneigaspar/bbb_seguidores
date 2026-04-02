@@ -18,7 +18,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("👁️ BBB 26: Seguidores em Tempo Real")
+st.title("👁️ BBB 26: Seguidoressssss em Tempo Real")
 st.subheader("Acompanhe o crescimento dos participantes no Instagram")
 
 # 2. CONFIGURAÇÃO DOS PARTICIPANTES (Ajuste os nomes de usuário aqui)
